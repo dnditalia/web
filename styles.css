@@ -176,10 +176,9 @@ div img {
 
 .login-box {
   position: relative;
-  top: -35%;
+  top: -15%;
   right: -85%;
   width: 350px;
-  height: fit-content;
   padding: 20px;
   transform: translate(-50%, -50%);
   background: rgba(24, 20, 20, 0.987);
